@@ -8,12 +8,12 @@ import Kontak from './kontak';
 
 const Utama = () => (
   <Switch>
-    <Route exact path="/" component={Beranda} />
-    <Route path="/beranda" component={Beranda} />
-    <Route path="/tentangsaya" component={TentangSaya} />
-    <Route path="/karya" component={Karya} />
-    <Route path="/kontak" component={Kontak} />
+    <Route exact path='/' component={Beranda} />
+    <Route path='/beranda' component={Beranda} />
+    <Route path='/tentangsaya' component={TentangSaya} />
+    <Route path='/karya' component={Karya} />
+    <Route path='/kontak' component={Kontak} />
   </Switch>
-)
+);
 
 export default Utama;

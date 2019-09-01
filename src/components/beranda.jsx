@@ -14,7 +14,7 @@ class Beranda extends Component {
             />
 
             <div className='banner-text'>
-              <h1>Hasimyy</h1>
+              <h1>Hasimy</h1>
               <hr />
               <p>
                 Saya adalah programmer yang bergerak dalam bidang

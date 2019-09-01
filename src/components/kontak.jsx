@@ -13,7 +13,7 @@ class Kontak extends Component {
         }}
       >
         <Grid className='content-grid'>
-          <Cell col={5} style={{ marginBottom: '82px' }}>
+          <Cell col={5}>
             <h3>Contact Person</h3>
             <hr />
             <div className='content-list'>
@@ -53,17 +53,24 @@ class Kontak extends Component {
             </div>
           </Cell>
 
-          <Cell col={7}>
-            <h3>Alamat Subject</h3>
-            <p style={{ width: '75%', margin: 'auto' }}>
+          <Cell col={5}>
+            <h3>Alamat Jabatan</h3>
+            <p style={{ width: '100%', margin: 'auto' }}>
               <List>
                 <ListItem>
                   <ListItemContent
                     style={{ fontSize: '20px', fontFamily: 'Anton' }}
                   >
                     <i className='fa fa-globe' aria-hidden='true' />
-                    <br />
-                    Jln. Masjid Al-Jufri
+                    <h6>Jln Tun Abdul Razak, Siaran 1C, Kuala Lumpur, MY</h6>
+                  </ListItemContent>
+                </ListItem>
+                <ListItem>
+                  <ListItemContent
+                    style={{ fontSize: '20px', fontFamily: 'Anton' }}
+                  >
+                    <i className='fa fa-globe' aria-hidden='true' />
+                    <h6>Jln Yap Kwan Seng, Siaran 9A, Kuala Lumpur, MY</h6>
                   </ListItemContent>
                 </ListItem>
               </List>
