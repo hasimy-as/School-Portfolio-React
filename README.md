@@ -1,27 +1,21 @@
 # Portfolio-React
 
-Ini adalah bagian dari tugas React-JS membuat web Portofolio.
+Just schoolwork. Used for practicing making a portfolio website with React.js
 
 # Project Status
 
 [![Github license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://raw.githubusercontent.com/hasimy-as/Portfolio-React/master/LICENSE)
 [![npm version](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/)
 
-## Versi 1.0.0
-
-Sepertinya tidak ada update lagi.
-
 
 # Usage
 
-Ikuti instruksi dibawah:
-
 ```sh
-Pertama, clone/download repository.
+First, clone/download repository.
 
-Kedua, install dependency yang diperlukan dengan (npm install)
+Secondly, install the dependency with yarn or npm install.
 
-Ketiga, jalankan aplikasi di CLI/Terminal anda dengan (yarn start)
+Thirdly, run the app via yarn or npm start.
 
 ```
 
