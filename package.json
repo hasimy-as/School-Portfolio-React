@@ -8,7 +8,7 @@
     "react-iframe": "^1.2.0",
     "react-mdl": "^1.11.0",
     "react-router-dom": "^4.3.1",
-    "react-scripts": "1.1.4"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
